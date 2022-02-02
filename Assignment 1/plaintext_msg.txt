@@ -1,0 +1,5 @@
+This is the first chamber of the caves.
+As you can see, there is nothing of interest in the chamber.
+Some of the later chambers will be more interest in than this one!
+the code used for this message is a simple substitution cipher in which digits have been shifted by 2 places.
+the password is iRqy9U1qdgt without the quotes.
