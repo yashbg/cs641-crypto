@@ -32,3 +32,11 @@ print(key)
 
 with open('Assignment 2/key.txt', 'w') as f:
     f.write(key)
+
+playfair_sq = [
+    ['C', 'R', 'Y', 'P', 'T'],
+    ['A', 'N', 'L', 'S', 'I'],
+    ['B', 'D', 'E', 'F', 'G'],
+    ['H', 'K', 'M', 'O', 'Q'],
+    ['U', 'V', 'W', 'X', 'Z'],
+]
