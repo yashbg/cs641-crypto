@@ -1,56 +1,34 @@
-from collections import defaultdict
-import json
-
-def freq_analysis(ciphertxt):
-    freq = defaultdict(int)
-    cnt = 0
-
-    for char in ciphertxt.lower():
-        if 0 <= ord(char) - ord('a') < 26:
-            cnt += 1
-            freq[char] += 1
-
-    for key , val in freq.items():
-        freq[key] = round(val / cnt * 100, 1)
-
-    freq = dict(sorted(freq.items(), key = lambda item: item[1], reverse=True))
-    
-    return freq
-
-def decrypt(ciphertxt, mapping):
-    table = ciphertxt.maketrans(mapping)
-    return ciphertxt.translate(table)
-
-
-with open('Assignment 2/cipher.txt') as f:
-    ciphertxt = f.read()
-print(ciphertxt)
-print()
-
-freq = freq_analysis(ciphertxt)
-print(freq)
-print()
-
-with open('Assignment 2/frequencies.txt', 'w') as f:
-    f.write(json.dumps(freq, indent=0))
-
-mapping = {
-    # 'Y': 'e',
-    'C': 't',
-
-    'Q': 'h',
-
-    'D': 'e',
-    
-    # # 'D': 'i',
-    # # 'F': 'n',
-
-    
+morse_dict = {
+    '.-': 'A', '-...': 'B', '-.-.': 'C', 
+    '-..': 'D', '.': 'E', '..-.': 'F', 
+    '--.': 'G', '....': 'H', '..': 'I', 
+    '.---': 'J', '-.-': 'K', '.-..': 'L', 
+    '--': 'M', '-.': 'N', '---': 'O', 
+    '.--.': 'P', '--.-': 'Q', '.-.': 'R', 
+    '...': 'S', '-': 'T', '..-': 'U', 
+    '...-': 'V', '.--': 'W', '-..-': 'X', 
+    '-.--': 'Y', '--..': 'Z', 
+    '.----': '1', '..---': '2', '...--': '3', 
+    '....-': '4', '.....': '5', '-....': '6', 
+    '--...': '7', '---..': '8', '----.': '9', 
+    '-----': '0', '--..--': ', ', '.-.-.-': '.', 
+    '..--..': '?', '-..-.': '/', '-....-': '-', 
+    '-.--.': '(', '-.--.-': ')'
 }
 
-plaintxt = decrypt(ciphertxt, mapping)
-print(plaintxt)
+def morse_decoder(morsecode):
+    morse_list = morsecode.split()
+    key_list = [morse_dict[code] for code in morse_list]
+    key = ''.join(key_list)
+    return key
+
+with open('Assignment 2/morse_code.txt') as f:
+    morsecode = f.read()
+print(morsecode)
 print()
 
-with open('Assignment 2/plaintext.txt', 'w') as f:
-    f.write(plaintxt)
+key = morse_decoder(morsecode)
+print(key)
+
+with open('Assignment 2/key.txt', 'w') as f:
+    f.write(key)
