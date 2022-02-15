@@ -1,25 +1,40 @@
-def power(x, y, p) :
-    res = 1     # Initialize result
+def modInverse(a, m):
+    # If a and m are relatively prime,
+    # then modulo inverse is a^(m-2) mode m
+    return power(a, m - 2, m)
  
-    # Update x if it is more
-    # than or equal to p
-    x = x % p
-     
-    if (x == 0) :
-        return 0
+# To compute x^y under modulo m
  
-    while (y > 0) :
-         
-        # If y is odd, multiply
-        # x with result
-        if ((y & 1) == 1) :
-            res = (res * x) % p
  
-        # y must be even now
-        y = y >> 1      # y = y/2
-        x = (x * x) % p
-         
-    return res
+def power(x, y, m):
+ 
+    if (y == 0):
+        return 1
+ 
+    p = power(x, y // 2, m) % m
+    p = (p * p) % m
+ 
+    if(y % 2 == 0):
+        return p
+    else:
+        return ((x * p) % m)
+
+def solve(b, i, j, k):
+    ans = 1
+    if i < 0:
+        ans *= power(modInverse(b[0], p), i, p)
+    else:
+        ans *= power(b[0], i, p)
+    if j < 0:
+        ans *= power(modInverse(b[1], p), j, p)
+    else:
+        ans *= power(b[1], j, p)
+    if k < 0:
+        ans *= power(modInverse(b[2], p), k, p)
+    else:
+        ans *= power(b[2], k, p)
+    return ans
+
 
 p = 455470209427676832372575348833
 
@@ -30,47 +45,17 @@ b = [
     98486971404861992487294722613
 ]
 
-k = [0] * 17
+c = []
 
-g = 5 * 10 ** 25 \
-    + k[0] * 10 ** 24 \
-    + k[1] * 10 ** 23 \
-    + k[2] * 10 ** 22 \
-    + 5 * 10 ** 21 \
-    + 0 * 10 ** 20 \
-    + k[3] * 10 ** 19 \
-    + k[4] * 10 ** 18 \
-    + 4 * 10 ** 17 \
-    + k[5] * 10 ** 16 \
-    + k[6] * 10 ** 15 \
-    + k[7] * 10 ** 14 \
-    + k[8] * 10 ** 13 \
-    + k[9] * 10 ** 12 \
-    + 3 * 10 ** 11 \
-    + 1 * 10 ** 10 \
-    + k[10] * 10 ** 9 \
-    + k[11] * 10 ** 8 \
-    + k[12] * 10 ** 7 \
-    + k[13] * 10 ** 6 \
-    + k[14] * 10 ** 5 \
-    + 9 * 10 ** 4 \
-    + 4 * 10 ** 3 \
-    + k[15] * 10 ** 2 \
-    + k[16] * 10 ** 1 \
-    + 9
+for i in range(-100, 101):
+    for j in range(-100, 101):
+        for k in range(-100, 101):
+            if i * a[0] + j * a[1] + k * a[2] == 1:
+                c.append([i, j, k])
+                # print(i, j, k)
 
-# l = power(b[0] / b[1], 1 / (a[0] - a[1]), p)
-l = (b[0] / b[1]) ** (1 / (a[0] - a[1]))
-print(l)
+print(c)
 
-# print(b[0] / b[1])
-# print(b[1] / b[2])
-# print(b[2] / b[0])
-# print()
-# print(b[1] / b[0])
-# print(b[2] / b[1])
-# print(b[0] / b[2])
-# print()
-# print(a[0] - a[1])
-# print(a[1] - a[2])
-# print(a[2] - a[0])
+for i in range(len(c)):
+    g = solve(b, c[i][0], c[i][1], c[i][2])
+    print(g)
