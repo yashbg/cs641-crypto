@@ -1,6 +1,3 @@
-def modInverse(a, m):
-    return power(a, m - 2, m)
-
 def power(x, y, m):
     if (y == 0):
         return 1
@@ -13,6 +10,9 @@ def power(x, y, m):
     else:
         return ((x * p) % m)
 
+def modInverse(a, m):
+    return power(a, m - 2, m)
+
 def solve(b, c):
     ans = 1
     for i in range(len(c)):
@@ -21,7 +21,6 @@ def solve(b, c):
         else:
             ans = (ans * power(b[i], c[i], p)) % p
     return ans
-
 
 p = 455470209427676832372575348833
 
@@ -34,14 +33,17 @@ b = [
 
 c = []
 
-for i in range(-100, 101):
-    for j in range(-100, 101):
-        for k in range(-100, 101):
-            if i * a[0] + j * a[1] + k * a[2] == 1:
-                c.append([i, j, k])
+for i in range(-1000, 1001):
+    for j in range(-1000, 1001):
+        if (1 - i * a[0] - j * a[1]) % a[2] == 0:
+            k = (1 - i * a[0] - j * a[1]) / a[2]
+            c.append([i, j, k])
 
 print(c)
 
+gs = []
 for i in range(len(c)):
-    g = solve(b, c[i])
+    gs.append(solve(b, c[i]))
+
+for g in sorted(gs):
     print(g)
