@@ -50,7 +50,6 @@ for g in g_list:
 print()
 
 g = 52565085417963311027694339
-coef = [-2298, 631]
 
 g_inv = inverse(g)
 pwd = (b[0] * pow(g_inv, a[0], p)) % p
