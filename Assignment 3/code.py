@@ -31,6 +31,7 @@ b_dif = [
 
 print(a_dif)
 print(b_dif)
+print()
 
 c = []
 for i in range(-10000, 10000):
@@ -38,12 +39,13 @@ for i in range(-10000, 10000):
         j = (1 - i * a_dif[0]) // a_dif[1]
         c.append([i, j])
 print(c)
+print()
 
 g_list = []
 for i in range(len(c)):
     g_list.append(solve(b_dif, c[i]))
 
-for g in sorted(g_list):
+for g in g_list:
     print(g)
 print()
 
