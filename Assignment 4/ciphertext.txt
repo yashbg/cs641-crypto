@@ -1,0 +1,18 @@
+You come up to the closed door and look at the glass panel ...
+... there is nothing written on it!!
+
+As you wonder what is happening here, you hear the spirit whispering
+in your ears ...
+
+"This is a magical screen. You can whisper something close to the
+screen and the corresponding coded text would appear on it after a while. 
+So go ahead and try to break the code! The code used for this is 
+a 4-round DES, so it should be easy for you!! Er wait ... maybe it is
+a 6-round DES ... sorry, my memory has blurred after so many years.
+But I am sure you can break even 6-round DES easily. A 10-round DES
+is a different matter, but this one surely is not 10-round ...
+(long pause) ... at least that is what I remember. One thing that I
+surely remember is that you can see the coded password by whispering 'password'.
+There was something funny about how the text appears, two letters for one
+byte or something like that. I do not recall more than that.
+I am sure you can figure it out though ..."
