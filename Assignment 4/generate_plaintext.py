@@ -13,5 +13,5 @@ with open('plaintext.txt', 'w') as f:
 
     f.writelines([
         'back\n',
-        'exit\n',
+        'exit\n'
     ])
