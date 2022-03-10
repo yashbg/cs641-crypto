@@ -6,7 +6,7 @@ from collections import defaultdict
 def random_plaintxt():
     plaintxt = ''.join(random.choice(string.ascii_lowercase) for _ in range(16))
     return plaintxt
-
+#Frequency Counter 
 def freq_analysis(ciphertxt):
     freq = defaultdict(int)
     cnt = 0
@@ -43,4 +43,5 @@ with open('random_ciphertexts.txt', 'r') as f:
 
 print(freq_analysis(''.join(ciphertxt for ciphertxt in ciphertxts)))
 
+#Output
 # {'d': 6.9, 'e': 5.6, 'f': 7.2, 'g': 6.6, 'h': 5.9, 'i': 6.2, 'j': 6.6, 'k': 6.3, 'l': 6.2, 'm': 5.6, 'n': 5.8, 'o': 6.4, 'p': 6.0, 'q': 6.1, 'r': 5.7, 's': 6.9}

@@ -2,7 +2,7 @@ import subprocess
 import random
 import numpy as np
 
-# imported from des.c
+# Imported from des.c
 initial_permutation = [[58, 50, 42, 34, 26, 18, 10, 2],
                        [60, 52, 44, 36, 28, 20, 12, 4],
                        [62, 54, 46, 38, 30, 22, 14, 6],
@@ -292,15 +292,12 @@ def generate_cipher_via_ssh(input_list):
 
 def generate_input_output(no_of_input_pairs, characteristic):
 
-    # generate input pairs
+    # generate input pairs and ciphertexts
     fin_per = apply_rev_initial_permutation(characteristic)  # inverse initial
     input_list = generate_input(fin_per, no_of_input_pairs)
-
-    # generate corresponding ciphertext
     output_list = generate_cipher_via_ssh(input_list)
     password = output_list.pop(0)
 
-    # write into a txt file
     if characteristic == "40 08 00 00 04 00 00 00":
         file_in = open("plaintext.txt", "w")
         file_out = open("ciphertext.txt", "w")
@@ -327,14 +324,11 @@ def find_k6_of_sboxes(s_in_xor, inv_perm, ex_out, sboxes):
             t_s_out_xor = inv_perm[i][box*4:box*4+4]
             t_ex_out1 = ex_out[2*i][box*6:box*6+6]
 
-            # Finding pairs (beta,beta') such that beta^beta'== s_in and S(beta)^S(beta') == gamma^gamma'
             for a in range(0, 64):
                 a1 = "{:0>6b}".format(a)
                 a2 = bitwise_xor(a1, t_s_in_xor, 6)
-                s_a1_xor_a2 = bitwise_xor(apply_sbox(
-                    a1, box+1), apply_sbox(a2, box+1), 4)
+                s_a1_xor_a2 = bitwise_xor(apply_sbox(a1, box+1), apply_sbox(a2, box+1), 4)
 
-                # check if S(a1)^S(a2) == gamma^gamma'
                 if s_a1_xor_a2 == t_s_out_xor:
                     key = bitwise_xor(t_ex_out1, a1, 6)
                     keys[box][int(key, 2)] += 1
@@ -396,19 +390,18 @@ def decryption(p, round_keys, rounds):
 
 
 def brute_force(partial_key56, plaintext, ciphertext):
-    # find indices of unknown bits
-    unk_bits = []
+    unknown_bits = []
     for i, c in enumerate(partial_key56):
         if c == '#':
-            unk_bits.append(i)
+            unknown_bits.append(i)
 
     final_key = ""
-    l = len(unk_bits)
+    l = len(unknown_bits)
     for i in range(2**l):
         b = "{:0>14b}".format(i)
         temp_k = partial_key56.copy()
         for j in range(l):
-            temp_k[unk_bits[j]] = b[j]
+            temp_k[unknown_bits[j]] = b[j]
         temp_k = "".join(temp_k)
         inp = str_to_bin(plaintext)
 
