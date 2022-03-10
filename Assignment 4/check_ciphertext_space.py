@@ -10,7 +10,6 @@ def random_plaintxt():
 def freq_analysis(ciphertxt):
     freq = defaultdict(int)
     cnt = 0
-
     for char in ciphertxt:
         cnt += 1
         freq[char] += 1
@@ -19,7 +18,6 @@ def freq_analysis(ciphertxt):
         freq[key] = round(val / cnt * 100, 1)
 
     freq = dict(sorted(freq.items(), key = lambda item: item[0]))
-    
     return freq
 
 with open('random_plaintexts.txt', 'w') as f:
@@ -29,20 +27,17 @@ with open('random_plaintexts.txt', 'w') as f:
         '4\n',
         'read\n'
     ])
-
     for i in range(100):
         f.writelines([
             f'{random_plaintxt()}\n',
             'c\n'
         ])
-    
     f.writelines([
         'back\n',
         'exit\n'
     ])
 
 subprocess.run('./script_for_ciphertext_space.sh')
-
 with open('random_ciphertexts.txt', 'r') as f:
     ciphertxts = [line.strip() for line in f.readlines()]
 
