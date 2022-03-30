@@ -1,0 +1,15499 @@
+
+
+		WELCOME TO THE CAVES!
+
+		Enter your group name: 
+
+		Enter password: 
+
+
+You have solved 4 levels so far.
+Level you want to start at: 
+
+
+
+	You are in a passage. There is very little light here.
+	You light a matchstick... the floor is full of rocks.
+	A cold draught hits you from behind and you shiver. You try to
+	walk quickly but stumble. Cursing your luck, you slow
+	down. The passage curves downwards. You put one hand on a 
+	side wall for guidance. The downward slope becomes steeper. 
+	You walk very slowly to avoid falling down. The slope has 
+	become very steep now... You throw away the matchstick to
+	hold both side walls of the passage with your hands. It becomes
+	completely dark! Your foot hits a small rock that rolls 
+	down the passage. Stopping, you try to hear the sound of 
+	the rock hitting the bottom and after a while you hear a 
+	very distant splashing sound. The passage seems to be
+	leading to some deep underground well! 
+
+> 
+
+
+
+	You bravely decide to go ahead. With slow and deliberate
+	steps, you go down the slope. Suddenly, as you put down a
+	foot on the floor, your foot finds thin air! In almost slow
+	motion, you fall forward. You throw your hands about to hold
+	a rock but miss everything and suddenly you are in a free 
+	fall!! Desperate, you try to grab something, but there is 
+	nothing to grab ...
+	
+> 
+
+
+
+	Magically, your fall downwards is arrested! Almost in slow
+	motion, you go downwards till you hit water. It is very cold!
+	You swim in one direction in the hope of finding dry land, but
+	only find vertical rocky wall. Swimming in opposite direction
+	yields the same result!
+
+> 
+
+
+
+	Diving under the water, you immediately notice mild yellowish
+	light coming out of what appears like a hole in a wall under the 
+	water. Swimming quickly, you go through the hole. Now swimming 
+	upwards, you quickly hit the surface, and find yourself in a
+	kind-of pool. The pool is circular in shape. You swim to one end
+	of it, and climb out of water...
+
+	After a while, you look around the place. The pool is a perfect
+	cicle! It cannot be naturally formed, you conclude. Then who could
+	have constructed a pool in such a place? There are a number of
+	lighted torches all around, providing ample yellow light. Someone 
+	seems to have fitted these torches and lighted them! Another unanswered
+	fact... 
+	
+	A well-lit passage is carved in the wall, and seems to be leading 
+	somewhere deep inside...
+
+> 
+
+
+
+	You walk down the passage. After quite a long walk, the
+	passage ends in a small door. Entering, you stand transfixed! 
+	You are inside a large hall! Someone has constructed this deep
+	inside the mountains!! The floor and the walls are made of marble, 
+	there are chandeliers hanging from the ceiling with burning 
+	torches inside. You rub your eyes in disbelief. But the scene stays.
+	Recovering a little from the initial shock, you look around the hall. 
+	It has two exits, one where you enetered from and the other that is
+	closed. It has a glass panel next to it and it is a proper door, made 
+	of carved wood...
+
+	You go around the hall, exploring its details. The marble is is 
+	very good quality. (How did someone get all this marble here, 
+	you wonder?) It feels cold. The chandeliers are made of crystal glass, 
+	so the light is reflecting in beautiful patterns. Who designed all this? 
+		
+> 
+
+
+
+	You come up to the closed door and look at the screen ...
+	... there is nothing written on it as earlier.
+
+	As you wonder if the spirit is around to help you out, you hear
+	it whispering in your ears ...
+
+	"This is another magical screen. And this one I remember perfectly...
+	
+	Consider a block of size 8 bytes as 8 x 1 vector over F_{128} --
+	constructed using the degree 7 irreducible polynomial x^7 + x + 1
+	over F_2. Define two transformations: first a linear transformation 
+	given by invertible 8 x 8 key matrix A with elements from F_{128} and 
+	second an exponentiation given by 8 x 1 vector E whose elements are 
+	numbers between 1 and 126. E is applied on a block by taking the ith 
+	element of the block and raising it to the power given by ith element in E.
+
+	Apply these transformations in the sequence EAEAE on the input block
+	to obtain the output block. Both E and A are part of the key.
+
+	You can see the coded password by simply whispering 'password' near 
+	the screen..."
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffff
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		kolgjujnfojfghit
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		jtgghsmpklmgjtis
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		mfmjiifghsmhfthg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		jfgjluftkrigmfjf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		kngfjlmtlsmjknju
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		jlmlhtmllsfqghfm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		hfluhrllghiigtkk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		lnjujglilpjpinij
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		lmhlighjkoiphtir
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		mukumugmlmmqgrhs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		klfifrlnltmnffik
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		jsmpgtfkgrmkfshr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		kkmhmgjulqkrhofs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijhsffktfkfihojn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		flijhmiimnikjojn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		kgmjloiuhojuiffj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ihjijsgtjlijmqis
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		jnfnfiilhfjsiqjs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		kqkmjqktfgjkjmim
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		kuflgpgohslnlnkg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		mkhkgfghinkhfklm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		kmjikggrmqfmljgs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		gjikhhhnfmgmmnlt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		gikmjsglgfkmguml
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		mmgqhljoghhqhkmq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fjkoglkrhkjtjtgl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ltijfhgflpliflfl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		lolnhjlkfffhjnkp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fsmommhlmgfrigig
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		hkigfiiofqlnjshg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		jqmhfqjpmrfhhlin
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		jimogjiiinitmnkg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		lsmlmplukukkgqlk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		jrimfihjfugnljmu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		lhlfirgtklftjfgh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		lkhkgmfqhtmomqks
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		jpfoinfpiggnfikr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		hrkkgmkmfgjoflhj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ghlokffskrhhkmfi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		lqlmlqmgghjuglfp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		hnjigqjrjfmnfuhr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ifhumhgghjmjgrjq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		grjffskihgmkjggs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		llkpmgirhhhrltfl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		hghulqfkkjhnkslk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ksiniufmksgpkgjq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		mhikhhftgpfkmjfn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		jolrkiflkkjgmmgl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		iimrhnhmfufhhslj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		khgsiojiknkohrmm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		mpfmiuklgskmffko
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		jmffjtftkuitfimo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		gufuhsiohqhkjmhl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		mjlfiijujmikiokr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		mljsmqlkiojtktll
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		lfjgkojsmliulpff
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		humkjtjofrkgflfp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		mqijfrlmgsgskujg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		irhfmokkhgjpkmff
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		jhmhkmgshrjmjhfs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		gofqgrhshfmigthp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ilhujjloiskrlffg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		miksfpknkhgnkikh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		iqkollhrjolsihmi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		jgfrgiiqkffkmrmp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		hmlshilfgfloklfq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ikfnhtghfjllkjjt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		hhhjmngmjflnirmj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		himjioirfljrkiji
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		itgnluhojghogqfh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		isitilfskihrijjo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		hpjlhkkkmqkliffi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		gtmuimgnjqfugjhm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fmllhjingpkrmgjk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		gplofgfrmrmrgtjr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		mtkfmqhtjffqhokh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		mghjghkrgniuisjr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		mnjphogqimffghfu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fnklhlhrlnfkgqjl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fhksmujnfnmrksmo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		lgkrfgjmimlskumn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		iohnhuhjjmjpmsig
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		frhqjsgtmolhjomt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		htlpjjltlqjnmkig
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ftlslqkrlrhskfhu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		kfiigpijkmhrhlfm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		kihuhlgmkghsgnfu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		mojrlqgphsihltkq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		lphhimmpkpgmgjgl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fkiigoiskoljklgp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		igmmkmksmhlhgklj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fokofrjojpillfjp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		jjilhglpkrmjfrlo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		hjirlflplsgfjqkr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fugjlglfmfgrhgjm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		kjhriqlhfhgtkumh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ipjukrflhsgskkls
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		msgjjulglkmlkuip
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		injnfojtjrmglqjh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		gfjqlghokpkjggji
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		jkgrifmrlojiljkq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		hojnjofklmjtktkk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		jumhgphkimmkfofm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		mrgpiuhqfriuiqli
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		gsmqgsiolnijmphr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		filtfggkirilgsko
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		gmfijgjpmllngumt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fgmsgoktkojuhfgr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		hqmkgfmqkmghgilf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		liktmlmhfkiihujf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		gqkufumjmggklomo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		krmjhpfrihfsjpmr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		imkqgsjngsiqgoiq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		hshmjslkfhjrkkkt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		luinhtgmfhfgjukj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		gniqmkkkfmfilolu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		kpflfffomqmtjkjf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ljjmkuhlghksglim
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ggijihfjitkklpgq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fpiugkkfkihsfffp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		iukihfiujslkfigp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		hlkhjsisipfjfrkk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ktmmhtghhqjugohr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fqjifpgtlomumjhg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		glfofukrgfknlrht
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		gkgjfihtjufqgrin
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		lrkohsgpkigogkms
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffff
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fflrgrfnjffiljig
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffknmsloimiqkoih
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffmfhrgglkkqjhho
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffmohtklfhmfgrlu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffitjpfnkpkugril
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffgtihkjlrikjggk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffksmskhgjkuhjjn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fflshjlilsluigkk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffgpmmhjgujoipgr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffgnhhfkmgjjmtgl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffjujhhflmjnlqmk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffjqgqkshgjokngl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffkujqjrhmgrgpkk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffhjgqggjsjrjhgm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffllhjlrjuhuktio
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffguktkojtffirkj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffmnmlhgligsggkq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffkgmpkjjjgmiull
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffjnfhfgftkrgmjo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffkrinfiiqfhijfm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffiislijphniiis
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffjggpmgjomfksjs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffjrgfgjmshmhkkl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffkqikhsgufljpfj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffglhtlihkfpggjf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffhoghipkufmjhfl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffimfflmkgfgjhgm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffjomtkmhtitjrhl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffmiftmtmiktfpfr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fflglhmshgkqlpio
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffghgqggmfmtkngn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffriggtifkmgmft
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fflohqiulshihgfr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffhplfmrmrjuigjt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffgkirgnlflhilgf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffpfogtmggmhgmp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffkffglgjuhufnik
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffggfiklmsgnfhkg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffjikrmqhojjiihr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fflijhitklhrghis
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffjmklfsfnmhkflr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffjphhfklomlmmgr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffjlmhfhhhikiqmp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fflhjulnmgfghhml
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffgiluishrirlqlm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffqgjflggjsithg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffilghkphnjjftiq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffiijufqiqhtfljr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffhllfmokiffmrfn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffmuiugpgsftmpks
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fflfloihinlukpln
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffhfltklfkirmlks
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffhgjrfghgihlimr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fflqjlirikkolnht
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffktggjlhrgfllko
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffklilkrmtfgmfhm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffftmhlmmjlimkkf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffkjfkjlmhhoijkq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffisiugrimhjfrkq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffiglolhgqimhjjt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffgfkkmshsjhfjlj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fflkjpiukmkfkhgf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffmsghjjjlhtkgmg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffhthlitghlomjgo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffljhpllhrjmioki
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffkkghrffigfmio
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffkojqmnlpiuholg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fflpjhfmkrmkmkjk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffjhnkkfjjkluhj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffikmigngkhkjofk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffiulriolohijlfu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffiohkmjjtfmhgii
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffjkktjhjkgollfh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffjslofskgjfgifj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffhmfolrgohrmfll
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffhufskrgphqhhhq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffgqkjmhjgknjfiq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fflugilritfkmkkh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffoishqlsiuisls
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffirfpkshqgfkhkq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffsinggjljtmomj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffmkkigrhflnguhs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffmgsgomnfqkfln
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffgrkjljmukmmimr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffgiljuipgqkrig
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffihmrjjmjgsjufl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffmhkhfijnfgimfn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffmqkufkiginilhp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fflmifkrjtfjjlkg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffhhijjhghifglij
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffijhmjufpfripir
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffmtmmfhiphqgtgk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffhkgrjfhtllhnjn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffhrjjmshtfigfjj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffkkfokmlumffmlr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffmgktgihplihgmj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffukljhhlgqlrkt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffjjgnguksgqlhmo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffmjirhojhjgllkg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffmpmrhjmljhjhlq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffiqhilkhsliitjq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffmllrmnjtmofnhq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffgomlihhkkjglml
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffkijqhlhrfsitmi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffhfgftguiuipmk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffgjkiillmhujgkk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffgsishnhnljmimr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffnmuhlgujpgolu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffhnhijkjulqfogm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffltfpioljffhmhu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffjfksjskriojjgr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffkpltiniomghpmm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffinjmltkkjpjpgh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffhifplokflngmmq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffifltihfilngigm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffkmmfjimshtgnfi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffiphfmnlfirkljj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffkhfnjplsmrggmt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffjhfqhpllmnjkir
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffmrkiiqjhflfgmo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffgmggkskjgkinht
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fflnmrhkgpjqgfgt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffhskjiuiqisljkl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffhqgnmtlfiokngp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffflgrflkjjlitgn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffmmkuipgnhskolj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffjtfrmsgsfskpfk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffff
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffhfhujsilknij
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffmgkfgniphlkr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffkmjmgthslhkp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffklmqmugfilkl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffjlfohtgujngm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffhlgkiqfhjnjh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffhjmslhjkgqjj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffgohgholrmfkf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffrlqlqmsgljt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffflfhtkqfnlnfg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffifgpmqmfigml
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffmfkjhgkiimkt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffguhhlogqlolu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffftlshqgjlmmo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffgphoiihokufl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffiqlgksgikglt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffiilimfghkmls
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffhhqhnfujghi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffiohuigffkilh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffgfhsiljpgjjq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffflgijjqhomtmg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffniolnkokngr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffktfjkkirlhgj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffloimfpgfhmgp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffjjilhkkplfmj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffipinlkmukqjs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffltiqffjukoiq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffmrktfikmiggl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffisimgiisfokq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffmpkfhjljkuhf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffgnmsjfjfgjft
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffijiujkknhtlu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffkuioiffnkqhj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffjojjhtkjljhg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffjsltjijokmif
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffmtjjjihiisil
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffignioimmkff
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffjpigmkghijfq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffflkjjlulkgjhh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffmojfmtjtgnlh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffkkkpmpktlpgr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffhuhnhoisisht
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffmlkffngnfgmm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffmslhmtiliglo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffmniulifrlogp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffljfriijpllgl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffflskolnjgigit
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffkhjigkfnftkf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffilhfghkkjgkg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffgtgnlgmsjfml
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffflmjuglgmgjfr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffqhrhujohugp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffitipmllfmtgs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffflrlrmgfmfujg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffflirjoihiskj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffflqmrlqkhjthk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffjkfhiulhjkfq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffikktlofkmikg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffkifugokrinlm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffflpfshigfktlr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffjqjhksgjgsfo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffjkqklmqlklk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffjrlnlrluifff
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffmmlmlghrgmlk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffjiknjrlpltms
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffkqjijkfokojq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffgggoflmuitjt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffhifpljmtjlgg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffhngqgtktmnkt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffkrmlmikijkih
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffjhkmmsmrgikj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffgkihlggpfmjm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffhohoipmhgimq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffjglsingfknlq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffjfkkguioipis
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffflhfrmgjngiko
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffgslfkmlrksmo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffkflnknjikilo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffsiuihgrlrjf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffhqmrlrjnilfo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffjmfffqhjgmgi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffknklhjingqlk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffpfskiigiigk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffihfifjfmfffu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffmqgjftjtjklt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffflnkffkgpgfll
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffglhkjplnklik
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffkjmpkrlihgfm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffimhnhpkskhhh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffgjglgmjgftif
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffmfkmsfshplp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffflumslrjlinki
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffgqmohqkokjlh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffhshkiiisikhg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffiuipgigmgjif
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffflllufhhqioks
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffummmohlkmfr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffoljhshggigo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffmilufrhoffhp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffkjjmmikjglp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffmkmkiqhjkqft
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffhtikghhomfip
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffjtkokglnfnkn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffirigggkqghku
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffgmhklomjfrls
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffmjiijqkthnmr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffgrmrmnfmhfio
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffghfginiffoji
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffighsikgjiiik
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffgmjgnilgqmp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffkpgriljmjmip
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffhrhhjilfhnfs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffhhfklolqfpmi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffhgmhgmhhmkjj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffinlqkkjggfmk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffjniujigkhris
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffmhmshnfqitiq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffkohofhjojpll
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffhkhokriffumf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffgiitmmhtiqmq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffjumilrjkkpfl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffkslmkrijknit
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffhphkgklliklj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffmumrjjhgjtki
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffhmggkrkpgnfo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffligkmmighlgr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffkgjrfnhmiohj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffff
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffghkkmrglkl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffkhkqjgmlmi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffmkgpfufmis
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffmngqgpfqlg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffgsiikiitjh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffqgflnkjlk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffigfjjnmffo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffgfkfmojsmq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffikfoiumkhk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffkfkmgiiggt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffimmrfnmhgj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffifigjoipkk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffkkkqkfhnjt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffgilnjhlujo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffmijrfrhnfn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffjqiuhnjqmi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffflfltfgmoim
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffhglqgilogi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffmuiqipgkir
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffflgijggkqit
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffljhngjlqmj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffinlohlmfki
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffhhgggrhfhh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffktjpfgliml
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffolqlgjmmp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffgtlrikikhf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffflighklhlgg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffguigfqiokn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffjnghlihtig
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffhfjjmfjpln
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffjikgilltlh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffgpithhkjlf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffggsfsjkji
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffiuijjoinmo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffhjmsmnjlgg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffknfijflsfq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffjrhomlgokf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffmlfllnimgr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffkggqmhkkmh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffmhjpllhngj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffflnhnhslqkr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffslhhqmjft
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffmqfjlslojt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffiplokfjphl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffitkjlrikkk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffrlthqjghm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffgnmmktlpmf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffhtlhisklfp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffflugjkqkkmn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffhogofilkfg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffjghrimfjhu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffjisiumklo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffgoktitlggq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffflqjulgmijh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffljffsfqms
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffjogohsftjo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffgjgrjokggf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffjtjnmkjrmh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffjpmfftjpjr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffgkkfhrhsmm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffflpjhjljpff
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffmtiifoitip
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffgmklmlkojo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffilhkirhoht
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffmmiujplflj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffjsjnihjsjl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffgrkpjihsmn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffkrlggfgsmn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffkimllfknis
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffhmjhgoisgk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffjkkpmsgffh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffklpjrgpmj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffglhqgqfufo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffmrlpgikift
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffngijohpfj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffkuikkrmnli
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffmpmgitkthg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffhrlnfglrkl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffkoillnfslf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffflsklklfrhm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffjlfljmlhhj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffkqhqkmihii
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffjmhfijjqgu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffgqhrloijhg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffhpggfjhplu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffjjmljnflfn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffhllmlkhlhk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffhiikgkjlho
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffmsgrfmfnhi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffggfujqfpjk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffhhffgjolh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffklmsfmjigi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffllgikkjtgt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffhuilmrfpkf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffhkgjghftmf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffkpgfiumpfr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffiomrkqjufo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffisfklpigik
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffkjlgjfjmjq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffirgsgkgkko
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffflolljngkkj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffflmmfkpghkh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffksjrhrkkkf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffihhkiijggk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffmjktlhluhm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffflhkgkujuiu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffjfitfgmufi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffufomflpji
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffphomlkogk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffhqmmgmftgt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffmjfjogfln
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffikmggiifi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffmgkkkrhthu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffmolmkpfklg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffflrisjfhtkp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffflkfflglils
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffmffujhgtjf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffkmkjiuktjs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffiifilljuip
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffijlljqgqhr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffhnjukqlplq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffjhjjjqipil
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffltlrkugogp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffiqfklplrlr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffjugpiriggt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffhsiqgmjhfk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffftmggoiglk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffff
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffjukskfjh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffftjkllgq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffmqmumuks
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffhsfrhkmj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffojpiifm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffgqhiliir
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffkifmofj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffgmksmhgg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffjomsfqhl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffmplikrho
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffgtmgjijt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffsiqlqln
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffinmpgmhl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffknkffhhq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffkmhtiofg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffhukmfsft
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffjmfnkpih
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffgugrlrir
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffjslqifin
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffksmjlpgq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffkthqjqfr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffkkhukimn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffflrjsgnjg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffljkniimo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffgsmpglku
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffimijhphk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffmjmlfkjl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffhgmqluij
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffiilojpjl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffjpiqmril
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffflhhqhnfr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffgnikmgis
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffmlithmgu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffihjtmtjt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffllhnkjms
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffgiltjolm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffglmuflmu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffgjrhhhu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffitmrjqis
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffmommklgs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffflfugihs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffifjughjt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffmkmqkokn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffjkimkrki
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffkgkqlplq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffijkshnji
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffgpgtkomk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffngnmpgk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffjggqftjh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffgriomfgh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffflumglmjg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffkrmhfqkq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffmtmnlifg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffmfknmlfp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffflnhhimmm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffiklhlrkq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffflsjklohg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffjhimkqku
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffhfiggjjo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffklkpfsmi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffflkkjjklt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffgohllmjs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffgfkkimfp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffjjlhhhlg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffhnjkjnmp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffmujlhnkl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffhokhmnkp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffjgrfukh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffihhihmj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffmllgrjm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffipjffrku
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffiglklgkq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffjriikokm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffflohqikij
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffhtfqkokt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffjlkhlomi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffkfllhtli
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffhllpfujh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffpkfkufm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffgjgtlngi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffkuhlltmj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffgglhisgp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffflfffhimu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffqmgkijq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffhqifgqgg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffilhffumj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffhrmifuip
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffiskljuhi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffflmipjsho
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffkqkplhjo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffiqlrgkgi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffgkfqhifi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffhjmumniu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffjqkiftmm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffjfhtiril
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffirfrinil
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffmgirmfft
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffhifthrim
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffkjhjgojr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffkpfqfnjs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffmrgsmskp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffmshrfujq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffflggumsih
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffiuklfkfr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffflihnlflt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffjijrlnkq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffhkmiltlh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffltgtknin
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffkokmmghl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffhpjijhkm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffhmimlkiq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffkihifqmp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffiokulihn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffmhjngglt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffhhjrljjs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffflpisfqhi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffflqkqghmj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffmimhkqhi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffjnlfihfr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffrmrhsfq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffmmhthumq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffjtifjrfj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffukhjsmg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffhgsmpgm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffghipgnkg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffmnlrlojk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffkhmrgumi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffff
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffmjftir
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffgllrgo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffjqlull
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffmnmflr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffjhlpgu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffksflgf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffiqjhgs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffgjfugo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffkhmghj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffgujnhj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffjtirkq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffhkjmms
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffiskgjr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffijkpif
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffjgmqjm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffflitkj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffgqmoft
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffllguko
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffflfkmfs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffipllgh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffhrhlfg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffgsiphh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffflkfpkf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffighjko
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffhjhfmg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffikmsfh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffhqjggh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffmmjpjg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffhuitfk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffktfums
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffhmjigj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffgkmjk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffklhugn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffjkfmgs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffphoks
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffggffkk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffkkhjhg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffgflrml
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffligrij
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffqigfm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffhsgnlq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffmikplr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffrfrft
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffjjfulr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffinmgmn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffkffrmr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffmtjlli
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffimjgkm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffflmhuhk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffftgnfq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffkirlu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffjniilp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffmplnjl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffjsgugf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffhojimp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffkmghlk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffgmfnki
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffihjqmo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffjklmq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffljmkfu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffhihrgq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffjumfmt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffioiqml
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffiuhkmg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffitgofu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffgofkjt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffolggq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffhggilj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffflohnjf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffigukq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffsmnij
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffjlirjk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffkpihih
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffknhsmf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffflqiskf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffmojhjp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffkqinlp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffkgksjl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffflglnhp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffirkgfi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffmgfqhq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffjrikji
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffmqlujs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffhnfngu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffflsgqlj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffhmugr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffgijsil
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffgtinkt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffkjkphh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffmkjtkh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffgpjimg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffgnjpfi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffmhkokh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffgkgtms
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffjofmin
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffilmnkh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffmhrft
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffhtlkjm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffmfmnhm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffmrljmk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffkomqgi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffjfllfn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffkulrgg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffgrfmmp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffhfiojk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffflpggfj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffflnijgm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffkrjhfh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffmskofo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffiikulp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffhpmggm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffhliuiu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffghkmgk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffjmlpjg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffkihigg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffmlkfhf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffjihkmo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffmukuim
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffngglf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffflumjgs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffflrjsgq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffifjmhr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffumfih
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffhhinfm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffltjumt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffjpfpju
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffflhfpgg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffff
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffknhq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffgsfu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffjkhp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffkkmj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffsfm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffjnfo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffgfgk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffjtmo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffglgr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffkihm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffqfu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffgqjo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffjigk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffllj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffktlu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffmqli
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffhimk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffllju
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffitki
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffhtmf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffmljh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffiifq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffflqgf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffikif
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffflsfh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffhngl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffmfln
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffflfff
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffinfr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffmsfm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffhkhk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffhgkl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffmokl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffirit
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffljln
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffmjfi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffhrgk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffflofl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffigjf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffluho
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffimgj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffmhgf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffhpft
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffipgt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffflhfk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffhmjm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffmugs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffkpgq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffhkq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffjmhj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffguhp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffulq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffkmlj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffghli
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffjpmg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffgjmg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffjrfg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffofj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffkgji
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffjghi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffgokp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffkrms
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffjit
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffgrku
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffjjml
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffgki
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffkolj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffjoik
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffgghm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffkjir
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffrlq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffkhih
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffphq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffjugu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffgmjp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffmms
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffkukp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffgplo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffjhmm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffflmju
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffiuhq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffmpgp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffhhlo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffihjk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffflpji
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffhugs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffmmlt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffhomo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffmgls
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffijii
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffflrkr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffmrih
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffhjmh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffflglr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffiohg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffiskt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffflkmu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffhffs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffmnfr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffflngu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffifhm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffmkis
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffhsit
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffmifh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffhqlt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffltif
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffiljo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffhlhr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffmtkf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffiqfr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffliju
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffjlji
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffgtmp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffkqln
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffikp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffgiis
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffjqll
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffftlf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffklfk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffnkq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffkfms
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffgkkt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffjsmg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffkshk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffkkl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffjfml
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffgnih
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffff
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffgh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffgn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffgi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffmp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffgq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffji
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffflh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffhh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffgp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffgj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffflq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffko
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffjj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffkn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffkq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffflu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffkm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffju
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffffj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffjm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffgk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffkj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffhr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffgl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffik
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffks
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffki
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffjs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffkh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffhi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffjn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffit
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffjr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffgt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffhg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffflj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffffk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffflp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffgu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffii
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffgg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffgr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffhs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffmf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffgm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffflm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffjp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffmh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffhj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffjl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffim
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffmr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffhf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffmj
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffkl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffkg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffll
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffhu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffflg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffij
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffku
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffflf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffhq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffmu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffkt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffffp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffmg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffhk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffkf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffffg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffmm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffffm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffffn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffig
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffip
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffffu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffffh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffmt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffht
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffgo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffmo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffml
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffhl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffgf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffis
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffir
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffmn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffjf
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffiu
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffho
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffin
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffflo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffffs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffkk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffffl
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffmk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffhm
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffif
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffflr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffln
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffft
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffmi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffjh
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffms
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffmq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffkp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffffr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffhp
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffjt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffjk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffhn
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffjg
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffkr
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffih
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffjq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffffo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffio
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffil
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffiq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffgs
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffflk
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffjo
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffffq
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffls
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffflt
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ffffffffffffffli
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		fffffffffffffffi
+
+
+Press c to continue> 
+
+
+
+	The text in the screen vanishes!
+
+> 
+
+
+
+	You walk down the passage. After quite a long walk, the
+	passage ends in a small door. Entering, you stand transfixed! 
+	You are inside a large hall! Someone has constructed this deep
+	inside the mountains!! The floor and the walls are made of marble, 
+	there are chandeliers hanging from the ceiling with burning 
+	torches inside. You rub your eyes in disbelief. But the scene stays.
+	Recovering a little from the initial shock, you look around the hall. 
+	It has two exits, one where you enetered from and the other that is
+	closed. It has a glass panel next to it and it is a proper door, made 
+	of carved wood...
+
+	You go around the hall, exploring its details. The marble is is 
+	very good quality. (How did someone get all this marble here, 
+	you wonder?) It feels cold. The chandeliers are made of crystal glass, 
+	so the light is reflecting in beautiful patterns. Who designed all this? 
+		
+> 
