@@ -7,7 +7,7 @@
 		Enter password: 
 
 
-You have solved 4 levels so far.
+You have solved 5 levels so far.
 Level you want to start at: 
 
 
