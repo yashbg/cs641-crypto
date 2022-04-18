@@ -1,12 +1,12 @@
-exit1 59 6f 75 20 73 65 65
-exit3 20 61 20 47 6f 6c 64
-exit4 2d 42 75 67 20 69 6e
-exit4 20 6f 6e 65 20 63 6f
-exit1 72 6e 65 72 2e 20 49
-exit3 74 20 69 73 20 74 68
-exit4 65 20 6b 65 79 20 74
-exit1 6f 20 61 20 74 72 65
-exit3 61 73 75 72 65 20 66
-exit2 6f 75 6e 64 20 62 79
+exit1: 59 6f 75 20 73 65 65
+exit3: 20 61 20 47 6f 6c 64
+exit4: 2d 42 75 67 20 69 6e
+exit4: 20 6f 6e 65 20 63 6f
+exit1: 72 6e 65 72 2e 20 49
+exit3: 74 20 69 73 20 74 68
+exit4: 65 20 6b 65 79 20 74
+exit1: 6f 20 61 20 74 72 65
+exit3: 61 73 75 72 65 20 66
+exit2: 6f 75 6e 64 20 62 79
 
-exit1->exit3->exit4->exit4->exit1->exit3->exit4->exit1->exit3->exit2
+exit1->exit3->exit4->exit4->exit1->exit3->exit4->exit1->exit3->exit2->read
