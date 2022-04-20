@@ -1,0 +1,14 @@
+You see the following written on the panel:
+
+22 0 104 11 116 23 34 8 86 85 104 36 32 34 115 63 87 19 38 29 4 36 6 9 99 89 83 10 80 42 27 110 
+
+As you wonder what do these numbers mean, you hear a whisper in your ears ...
+"I am so happy that he went away without noticing me. He is the one who bound
+me to the hole. Oh, I was so scared that he will notice me!
+
+You must be wondering about these numbers. These are hash values of your password
+which is made of letters between 'f' and 'u'. Also, the letters in the password are
+in alphabetic order. For hashing, your password is viewed as a sequence
+of numbers x_1, x_2, ..., x_m in the field F_{127}. The ith number of the hashed
+sequence equals x_1^{i-1} + x_2^{i-1} + ... + x_m^{i-1}. As you can see, there are
+32 such numbers for i = 1 to 32."
